@@ -1,0 +1,30 @@
+Question 1.
+In notebook.
+
+Question 2.
+
+1.'OverallQual': 48486.02294186439,
+2. 'GrLivArea': 54623.70851077843,
+3. 'ExterQual_Coded': 57994.174557897815,
+4.'KitchenQual_Coded': 59200.71377417049,
+5.'GarageCars': 60455.54750776515,
+6. 'GarageArea': 61785.42583766534,
+7. 'TotalBsmtSF': 62787.08905924458,
+8. '1stFlrSF': 63260.7725718644,
+9. 'BsmtQual_Coded': 63797.41507869597,
+10. 'FullBath': 64739.148070927906
+
+Question 3. 
+Unable to complete correctly
+
+Question 4. 
+RSME - 20999.87 score = 0.929
+
+Question 5. 
+5KNN - 37585.14; score = 0.772
+
+10KNN - 42139.69; score = 0.713
+
+Question 6.
+The linear regressor was better for inference for this training data. The 5 KNN was better than the 10 KNN but were relatively close.
+
